@@ -92,7 +92,7 @@
 
     
                 <div class="title m-b-md">
-              <p>Daily Task App</p>
+              <p>Make Your Daily Tasks easy!!</p>
 
                 </div>
                 
